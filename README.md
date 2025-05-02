@@ -1,0 +1,1 @@
+A Comapny app featuring a screen with a User and Detail page also include One Model Random API calling and on each click show List.The app leverages the latest Android technologies, including Clean Architecture, MVVM, Kotlin, Coroutines, Hilt, Retrofit, Flows,JetPack Compose and  Navigation."
